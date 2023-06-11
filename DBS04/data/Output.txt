@@ -1,0 +1,64 @@
+KEYWORD = "PRIOR"
+MOVIES
+
+ACTORS
+Prior, Herbert
+	PLAYED IN
+		Martyrdom of Philip Strong, The
+		Next
+		Unsullied Shield, An
+	CO-STARS
+		Connery, Van (1)
+		Dawley, Janet (1)
+		Edwin, Walter (1)
+		Eytinge, Harry (1)
+		Harris, Wadsworth (1)
+Prior, Tom
+	PLAYED IN
+		Warning: Parental Advisory
+	CO-STARS
+		Adair, Dwight (1)
+		Amiss, Susannah (1)
+		Beatty, Jim (1)
+		Berryman, Joe (1)
+		Born, David (1)
+
+
+
+KEYWORD = "SCHWARZ"
+MOVIES
+Tatort - Schwarzer Advent, 1998, Crime
+	Berkel, Christian
+	Erhart, Peter
+	Fitz, Michael (I)
+	Grosser, Renate
+	Hartmann, Alexandra
+
+ACTORS
+Schwarz, Josef
+	PLAYED IN
+		Meister Eder und sein Pumuckl
+	CO-STARS
+		Ackermann, Kathrin (1)
+		Astor, Eva (1)
+		Basedow, Rainer (1)
+		Baumgartner, Monika (1)
+		Berben, Iris (1)
+Schwarz, Norbert
+	PLAYED IN
+		Es geht seinen Gang oder Mühen in unserer Ebene
+	CO-STARS
+		Bathke, Wolfgang (1)
+		Bauer, Reinhard Vom (1)
+		Behrends, Ela (1)
+		Branding, Heinz Theo (1)
+		Gissel, Henning (1)
+Schwarzkopf, Klaus
+	PLAYED IN
+		Meister Eder und sein Pumuckl
+	CO-STARS
+		Ackermann, Kathrin (1)
+		Astor, Eva (1)
+		Basedow, Rainer (1)
+		Baumgartner, Monika (1)
+		Berben, Iris (1)
